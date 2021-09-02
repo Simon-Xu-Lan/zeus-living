@@ -1,0 +1,8 @@
+csat_score_data.csv
+ops_headcount_data.csv
+helpers.py
+Seasonality.ipynb
+*.docx
+.ipynb_*
+__pycache__/
+
